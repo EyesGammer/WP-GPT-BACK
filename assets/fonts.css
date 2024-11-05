@@ -1,0 +1,247 @@
+/* Specify Normal */
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-NormThin.ttf);
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-NormThinItalic.ttf);
+    font-weight: 100;
+    font-style: italic;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-NormLight.ttf);
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-NormLightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-NormMedium.ttf);
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-NormMediumItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-NormBold.ttf);
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-NormBoldItalic.ttf);
+    font-weight: 700;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+/* Specify Condensed */
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ConThin.ttf);
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: condensed;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ConThinItalic.ttf);
+    font-weight: 100;
+    font-style: italic;
+    font-stretch: condensed;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ConLight.ttf);
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: condensed;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ConLightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: condensed;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ConMedium.ttf);
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: condensed;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ConMediumItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+    font-stretch: condensed;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ConBold.ttf);
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: condensed;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ConBoldItalic.ttf);
+    font-weight: 700;
+    font-style: italic;
+    font-stretch: condensed;
+}
+
+/* Specify Expanded */
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExpThin.ttf);
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: expanded;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExpThinItalic.ttf);
+    font-weight: 100;
+    font-style: italic;
+    font-stretch: expanded;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExpLight.ttf);
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: expanded;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExpLightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: expanded;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExpMedium.ttf);
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: expanded;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExpMediumItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+    font-stretch: expanded;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExpBold.ttf);
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: expanded;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExpBoldItalic.ttf);
+    font-weight: 700;
+    font-style: italic;
+    font-stretch: expanded;
+}
+
+/* Specify Extra Expanded */
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExExpThin.ttf);
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: extra-expanded;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExExpThinItalic.ttf);
+    font-weight: 100;
+    font-style: italic;
+    font-stretch: extra-expanded;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExExpLight.ttf);
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: extra-expanded;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExExpLightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: extra-expanded;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExExpMedium.ttf);
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: extra-expanded;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExExpMediumItal.ttf);
+    font-weight: 600;
+    font-style: italic;
+    font-stretch: extra-expanded;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExExpBold.ttf);
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: extra-expanded;
+}
+@font-face {
+    font-family: "Specify";
+    src: url(./specify/SpecifyPERSONAL-ExExpBoldItalic.ttf);
+    font-weight: 700;
+    font-style: italic;
+    font-stretch: extra-expanded;
+}
+
+/* Hexa */
+@font-face {
+    font-family: "Nexa";
+    src: url(./nexa/Nexa-ExtraLight.ttf);
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Nexa";
+    src: url(./nexa/Nexa-Heavy.ttf);
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+}
